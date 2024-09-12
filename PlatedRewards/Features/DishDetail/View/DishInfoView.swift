@@ -25,6 +25,7 @@ public struct DishInfoView: View {
                                        placeholderShape: Rectangle())
                         makeSection(header: "Dish name", body: dish.name)
                         makeSection(header: "Instructions", body: dish.instructions.joined(separator: "\n"))
+                        makeIngredientSection(ingredients: dish.ingredients)
                         if let sourceURL = dish.sourceURL {
                             makeSection(header: "Source", body: sourceURL.absoluteString)
                         }

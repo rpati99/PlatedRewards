@@ -76,4 +76,26 @@ extension View {
             Divider()
         }
     }
+    
+    //DishInfoView
+    func makeIngredientSection(ingredients: [Ingredient]) -> some View {
+        VStack(alignment: .leading) {
+            Text("Ingredients")
+                .font(.title2)
+                .fontWeight(.semibold)
+                .padding(.leading)
+            ForEach(ingredients, id: \.self) { ingredient in
+                HStack {
+                    Text(ingredient.name)
+                        .font(.body)
+                    Spacer()
+                    Text(ingredient.quantity)
+                        .font(.body)
+                        .foregroundColor(.secondary)
+                }
+                .padding(.horizontal)
+            }
+            Divider()
+        }
+    }
 }

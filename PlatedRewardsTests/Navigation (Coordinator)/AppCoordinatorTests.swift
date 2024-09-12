@@ -33,7 +33,7 @@ final class AppCoordinatorTests: XCTestCase {
         let dishId = "53049"
         
         // Triggering navigation to dish details
-        coordinator.showMealDetail(for: dishId)
+        coordinator.showDishDetail(for: dishId)
         
         // Verify that the navigation path now contains one element
         XCTAssertEqual(coordinator.navigationPath.count, 1, "Navigation path should have 1 entry after navigating to a dish detail")
@@ -44,7 +44,7 @@ final class AppCoordinatorTests: XCTestCase {
         let dishId = "53049"
         
         // Triggering navigation to dish details
-        coordinator.showMealDetail(for: dishId)
+        coordinator.showDishDetail(for: dishId)
         
         // Verify that the navigation path now contains one element
         XCTAssertEqual(coordinator.navigationPath.count, 1, "Navigation path should have 1 entry after navigating to a dish detail")
@@ -62,11 +62,11 @@ final class AppCoordinatorTests: XCTestCase {
         let dishId2 = "53050"
         
         // Navigate to first dish
-        coordinator.showMealDetail(for: dishId1)
+        coordinator.showDishDetail(for: dishId1)
         XCTAssertEqual(coordinator.navigationPath.count, 1, "Navigation path should have 1 entry after first navigation")
         
         // Navigate to second dish
-        coordinator.showMealDetail(for: dishId2)
+        coordinator.showDishDetail(for: dishId2)
         XCTAssertEqual(coordinator.navigationPath.count, 2, "Navigation path should have 2 entries after second navigation")
         
         // Going back once
