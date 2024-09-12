@@ -33,3 +33,12 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 - **Built on Xcode 15.4**
 
 ## **Screenshots** 
+
+- Logging
+  
+  ![](https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/Logging.png)
+
+- App Screenshots
+
+<img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/AreaDark.png" alt="AreaDark" width="250"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/CategoryLight.png" alt="CategoryLight" width="250"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetailDark.png" alt="DetailDark" width="250"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetailLight.png" alt="DetailLight" width="250"/>
+
