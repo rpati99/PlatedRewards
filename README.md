@@ -36,7 +36,7 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 
 - Logging
   
-  ![](https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/Logging.png)
+<img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/Logging.jpg" alt="Logging" width="600"/>
 
 - Screens
 
