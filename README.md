@@ -17,7 +17,7 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 
 - **Browse Dishes by Category and Area**: Ability to view dishes by selecting categories (e.g., dessert, entrée) or areas (e.g., USA, Japan).
 - **Modular list selection**: By default the dessert list is being loaded which is paired with the selection of the filtering system embracing flexibility.
-- **Dark mode support**:By using @Environment to make adaptable UI.
+- **Dark mode support**: By using @Environment to make adaptable UI.
 - **View Meal Details**: Includes dish name, instructions, thumbnail image, and links to YouTube videos or source articles.
 - **Unified Logging support**: The app includes unified logging to track errors during network requests, making debugging and monitoring easier.
 - **Modular Architecture**: Components are organized into separate modules, making the codebase highly maintainable and follows SOLID principles.
