@@ -37,3 +37,8 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 - Logging
   
   ![](https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/Logging.png)
+
+- Screens
+
+### Dark Mode - Meal List View
+<img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/MainDark.png" alt="MainDark" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/MainLight.png" alt="MainLight" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetaiDark.png" alt="DetailDark" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetailLight.png" alt="DetailLight" width="150"/>
