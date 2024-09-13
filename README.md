@@ -20,7 +20,7 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 - **Dark mode support**: By using @Environment to make adaptable UI.
 - **View Meal Details**: Includes dish name, instructions, thumbnail image, and links to YouTube videos or source articles.
 - **Unified Logging support**: The app includes unified logging to track errors during network requests, making debugging and monitoring easier.
-- **Modular Architecture**: Components are organized into separate modules, making the codebase highly maintainable and follows SOLID principles.
+- **Modularity**: Components are organized in a way which embrace decoupling, making the codebase highly maintainable and follows SOLID principles.
 - **File organizaton**: Added focus in maintaining flexible navigation across the codebase by following good file organization practices.
 - **State-Driven UI**: The app uses custom state declaration to drive UI updates.
 - **Faster API fetch**: Batch fetching and a well-structured Router and Repository pattern ensure efficient API interactions, resulting in faster loading times.
@@ -37,6 +37,5 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 <img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/Logging.jpg" alt="Logging" width="600"/>
 
 - Screens
-
 
 <img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/MainDark.png" alt="MainDark" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/MainLight.png" alt="MainLight" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetaiDark.png" alt="DetailDark" width="150"/><img src="https://github.com/rpati99/PlatedRewards/blob/main/App%20Screenshots/DetailLight.png" alt="DetailLight" width="150"/>
