@@ -25,11 +25,9 @@ Users can browse meals by category (e.g., dessert, entrée) or by region (e.g., 
 - **State-Driven UI**: The app uses custom state declaration to drive UI updates.
 - **Faster API fetch**: Batch fetching and a well-structured Router and Repository pattern ensure efficient API interactions, resulting in faster loading times.
 
-> I have implemented application that is more than the provided scope to showcase the app’s scalability and flexibility in handling various scenarios and requirements.
-
 ## **Building and testing environment**
 
-- **Deployment target iOS 17+**
+- **Deployment target iOS 17+ and tested on all iPhone screen sizes that are on iOS 17**
 - **Built on Xcode 15.4**
 
 ## **Screenshots** 
